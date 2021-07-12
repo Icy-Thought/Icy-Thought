@@ -21,7 +21,7 @@ At the time of writing, Icy-Thought has chosen to retain the privacy of his pers
 - [![Shields.IO](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://sheilds.io/)
 - [![Shields.IO](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://shields.io/)
 - [![Shields.IO](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://shields.io/)
-- [![Shields.IO](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+- [![Shields.IO](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://shields.io/)
 
 ### Studying:
 - [![Shields.IO](https://img.shields.io/badge/nix-0175C2?style=for-the-badge&logo=NixOS&logoColor=white)](https://shields.io/)
